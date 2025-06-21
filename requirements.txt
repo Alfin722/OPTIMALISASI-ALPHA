@@ -5,3 +5,4 @@ scipy>=1.7
 scikit-learn>=1.0
 plotly>=5.5
 openpyxl>=3.0  # Untuk membaca file Excel .xlsx
+matplotlib
